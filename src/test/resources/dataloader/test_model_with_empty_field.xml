@@ -1,0 +1,10 @@
+<TestModels>
+    <TestModel>
+        <id>1</id>
+        <name></name>
+    </TestModel>
+    <TestModel>
+        <id>2</id>
+        <name/>
+    </TestModel>
+</TestModels>

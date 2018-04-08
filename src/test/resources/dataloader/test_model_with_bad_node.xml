@@ -1,0 +1,13 @@
+<TestModels>
+    <TestModel>
+        <id>1</id>
+        <name>foo</name>
+    </TestModel>
+    <TestModel>
+        <id>2</id>
+        <name>bar</name>
+    </TestModel>
+    <TestModel>
+        <nope>2</nope>
+    </TestModel>
+</TestModels>
